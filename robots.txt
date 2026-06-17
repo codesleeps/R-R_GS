@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://rr-gardeningservices.co.uk/sitemap.xml
+Sitemap: https://codesleeps.github.io/R-R_GS/sitemap.xml
 
 # Disallow admin areas (if any)
 Disallow: /admin/
